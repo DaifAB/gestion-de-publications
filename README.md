@@ -18,4 +18,4 @@ Database Name : gestion de publications
 
 user : Sketch
 
-password : abdel99
+password : abdel996
